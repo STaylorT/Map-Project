@@ -1,2 +1,2 @@
 # Map-Project
-High School Map Project for RUPP Arena
+Interactive Map Project for STLP Comp
